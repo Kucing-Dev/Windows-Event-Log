@@ -32,8 +32,11 @@ You can open it by:
 
 * Pressing `Win + R`, then type `eventvwr.msc` and press Enter.
 * Or search for "Event Viewer" in the Start Menu.
-* 
+ 
 
   ## 7.Logon type - Network
 ![Untitled design](https://github.com/user-attachments/assets/c577b2d5-ed0d-4af4-a17b-b16c9bcb2398)
 ### answer : 2
+
+## 8.Who will NOT use windows event logs?
+answer: **sales**
