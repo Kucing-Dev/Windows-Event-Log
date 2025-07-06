@@ -15,6 +15,24 @@ To read them, you need:
 
 So, they are **not** plain text by default.
 
+## 4.Default GUI application or Windows built-in application that can be used to view Windows event logs?
+answer: **Windows Event Viewer**
+
+**Explanation:**
+
+**Windows Event Viewer** is a default GUI application in Windows that is used to view and analyze **Windows Event Logs** such as:
+
+* Application logs
+* Security logs
+* System logs
+* Setup logs
+* Forwarded events
+
+You can open it by:
+
+* Pressing `Win + R`, then type `eventvwr.msc` and press Enter.
+* Or search for "Event Viewer" in the Start Menu.
+* 
 
   ## 7.Logon type - Network
 ![Untitled design](https://github.com/user-attachments/assets/c577b2d5-ed0d-4af4-a17b-b16c9bcb2398)
