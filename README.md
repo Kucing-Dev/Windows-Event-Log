@@ -1,5 +1,7 @@
 ## Windows Event Log 101  - BlueTeam.Id
 ![blueteam](https://github.com/user-attachments/assets/d93f9c52-5b4f-4d14-9d22-b69c0af8e805)
+## 1.Event ID – An account was successfully logged on
+answer: **4624**
 
 ## 3.Is windows event log format in plain text format?
  answer: **False**
