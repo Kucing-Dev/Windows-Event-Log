@@ -3,6 +3,9 @@
 ## 1.Event ID – An account was successfully logged on
 answer: **4624**
 
+## 2.Event ID – An account failed to log on
+answer: **4625**
+
 ## 3.Is windows event log format in plain text format?
  answer: **False**
  
