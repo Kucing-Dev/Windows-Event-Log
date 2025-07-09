@@ -37,6 +37,9 @@ You can open it by:
 
 * Pressing `Win + R`, then type `eventvwr.msc` and press Enter.
 * Or search for "Event Viewer" in the Start Menu.
+
+  ## 6.Event ID – 4625 – user is currently locked out
+  answer: **0xC0000234**
  
 
   ## 7.Logon type - Network
