@@ -21,6 +21,8 @@ To read them, you need:
 So, they are **not** plain text by default.
 
 ## 4.Default GUI application or Windows built-in application that can be used to view Windows event logs?
+![Screenshot 2025-07-09 100633](https://github.com/user-attachments/assets/87d67f1f-28a5-4cc3-b924-cd8fcaaf0575)
+
 answer: **Windows Event Viewer**
 
 **Explanation:**
