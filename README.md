@@ -40,6 +40,19 @@ You can open it by:
 * Pressing `Win + R`, then type `eventvwr.msc` and press Enter.
 * Or search for "Event Viewer" in the Start Menu.
 
+ ## 5.Where is the local path windows event logs?
+  answer: **C:\Windows\System32\winevt\Logs**
+
+  Explanation:
+This is the default location where Windows stores event log files in .evtx format.
+
+Files in this folder include:
+
+ - Security.evtx
+ - System.evtx
+ - Application.evtx
+ - and other logs.
+
   ## 6.Event ID – 4625 – user is currently locked out
   answer: **0xC0000234**
  
